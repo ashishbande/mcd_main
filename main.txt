@@ -5,12 +5,9 @@ MCD main file
 ## added third line to it##
 ## added fourth  line to it##
 ## added fifth line to it##
-<<<<<<< 7a004f451516d0bb553bb38e1bfac37c10af5d19
 ## added seventh line to it## 
-
-=======
 ## added sixth line to it##
->>>>>>> made a change to experiment
+
 
 
 
